@@ -1,3 +1,4 @@
+# Android.mk
 ifneq ($(filter k4008,$(TARGET_DEVICE)),)
 
 LOCAL_PATH := device/ojji/k4008/

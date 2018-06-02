@@ -1,4 +1,4 @@
-
+# TWRP FSTAB Recovery 
 /boot emmc /dev/block/platform/sdio_emmc/by-name/boot
 /data ext4 /dev/block/platform/sdio_emmc/by-name/userdata
 /system ext4 /dev/block/platform/sdio_emmc/by-name/system

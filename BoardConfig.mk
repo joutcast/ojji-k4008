@@ -1,5 +1,7 @@
+# Board Configuration
+# Path
 LOCAL_PATH := device/ojji/k4008
-
+# Board & Bootloader
 TARGET_BOARD_PLATFORM := sc8830
 TARGET_BOOTLOADER_BOARD_NAME := tc4_k4008
 

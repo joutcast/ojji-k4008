@@ -1,3 +1,4 @@
+# Stock FSTAB Recovery
 /dev/block/platform/sdio_sd/mmcblk1p1				/storage/sdcard0			vfat	defaults	defaults
 
 /dev/block/platform/sdio_emmc/by-name/system			/system			ext4	defaults	defaults

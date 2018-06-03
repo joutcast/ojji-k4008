@@ -19,4 +19,4 @@ BOARD_SUPPRESS_EMMC_WIPE := true
 TW_EXCLUDE_SUPERSU := false
 TW_INPUT_BLACKLIST := "hbtp_vm"
 include $(LOCAL_PATH)/kernel.mk
-include device/generic/goldfish/BoardConfig32.mk
+include device/ojji/Sc7731-Sc8830-Recovery-Device-Tree/BoardConfig32.mk
